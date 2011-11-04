@@ -1,0 +1,6 @@
+This is an operating system I am writing for X86 processors.
+
+The github repository of the source code can be found at the following link: \\
+https://github.com/SaintNicholas/noss
+
+To Do: \\

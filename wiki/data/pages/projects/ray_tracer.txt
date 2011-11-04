@@ -1,0 +1,8 @@
+This Ray Tracer is based off the Amiga Juggler ray tracer.  This tutorial can be found at: \\
+http://meatfighter.com/juggler/
+
+The github repository of the source code can be found at the following link: \\
+https://github.com/SaintNicholas/Cpp-Ray-Tracer
+
+To Do: \\
+OpenGL Vector Representation in Ambient Occlusion

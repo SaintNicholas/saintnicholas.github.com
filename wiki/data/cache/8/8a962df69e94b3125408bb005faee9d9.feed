@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://nickgoote.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://nickgoote.com/wiki/feed.php">
+        <title>NickGoote.com Wiki projects</title>
+        <description></description>
+        <link>http://nickgoote.com/wiki/</link>
+        <image rdf:resource="http://nickgoote.com/wiki/lib/images/favicon.ico" />
+       <dc:date>2011-08-10T00:08:01-04:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://nickgoote.com/wiki/doku.php?id=projects:c_c_coding_style&amp;rev=1296876143&amp;do=diff"/>
+                <rdf:li rdf:resource="http://nickgoote.com/wiki/doku.php?id=projects:c_primer_plus&amp;rev=1294115508&amp;do=diff"/>
+                <rdf:li rdf:resource="http://nickgoote.com/wiki/doku.php?id=projects:introduction_to_computer_science_and_programming_6.00&amp;rev=1312939366&amp;do=diff"/>
+                <rdf:li rdf:resource="http://nickgoote.com/wiki/doku.php?id=projects:land_of_lisp&amp;rev=1294115810&amp;do=diff"/>
+                <rdf:li rdf:resource="http://nickgoote.com/wiki/doku.php?id=projects:master_s_degree_project&amp;rev=1312939712&amp;do=diff"/>
+                <rdf:li rdf:resource="http://nickgoote.com/wiki/doku.php?id=projects:networking&amp;rev=1297133731&amp;do=diff"/>
+                <rdf:li rdf:resource="http://nickgoote.com/wiki/doku.php?id=projects:noss_nick_s_operating_system&amp;rev=1293138519&amp;do=diff"/>
+                <rdf:li rdf:resource="http://nickgoote.com/wiki/doku.php?id=projects:projects&amp;rev=1312940449&amp;do=diff"/>
+                <rdf:li rdf:resource="http://nickgoote.com/wiki/doku.php?id=projects:ray_tracer&amp;rev=1293137989&amp;do=diff"/>
+                <rdf:li rdf:resource="http://nickgoote.com/wiki/doku.php?id=projects:usaco_programming_challenges&amp;rev=1293137959&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://nickgoote.com/wiki/lib/images/favicon.ico">
+        <title>NickGoote.com Wiki</title>
+        <link>http://nickgoote.com/wiki/</link>
+        <url>http://nickgoote.com/wiki/lib/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://nickgoote.com/wiki/doku.php?id=projects:c_c_coding_style&amp;rev=1296876143&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-02-04T22:22:23-04:00</dc:date>
+        <title>projects:c_c_coding_style</title>
+        <link>http://nickgoote.com/wiki/doku.php?id=projects:c_c_coding_style&amp;rev=1296876143&amp;do=diff</link>
+        <description>&lt;http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml&gt;
+
+File Names 
+
+Filenames should be all lowercase and can include underscores (_) or dashes (-)
+
+Type Names 
+
+Type names start with a capital letter and have a capital letter for each new word, with no underscores: MyExcitingClass, MyExcitingEnum.</description>
+    </item>
+    <item rdf:about="http://nickgoote.com/wiki/doku.php?id=projects:c_primer_plus&amp;rev=1294115508&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-01-03T23:31:48-04:00</dc:date>
+        <title>projects:c_primer_plus</title>
+        <link>http://nickgoote.com/wiki/doku.php?id=projects:c_primer_plus&amp;rev=1294115508&amp;do=diff</link>
+        <description>I have done C++ development starting at the undergraduate level, and continuing into work and grad school.  However, I haven't ever learned all of the C++ capabilities start to finish, which I feel would be beneficial.  To do this, I decided to go through the book C++ Primer Plus, doing all of the programming exercises as I went through the book.</description>
+    </item>
+    <item rdf:about="http://nickgoote.com/wiki/doku.php?id=projects:introduction_to_computer_science_and_programming_6.00&amp;rev=1312939366&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-08-09T21:22:46-04:00</dc:date>
+        <title>projects:introduction_to_computer_science_and_programming_6.00</title>
+        <link>http://nickgoote.com/wiki/doku.php?id=projects:introduction_to_computer_science_and_programming_6.00&amp;rev=1312939366&amp;do=diff</link>
+        <description>I don't have a lot of formal Computer Science education, and I also don't have any Python programming experience.  This class looked like a good way to get a little bit of both.  My work as I went through the class can be found at: 
+
+&lt;https://github.com/SaintNicholas/MIT-OCW-6.00&gt;.</description>
+    </item>
+    <item rdf:about="http://nickgoote.com/wiki/doku.php?id=projects:land_of_lisp&amp;rev=1294115810&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-01-03T23:36:50-04:00</dc:date>
+        <title>projects:land_of_lisp</title>
+        <link>http://nickgoote.com/wiki/doku.php?id=projects:land_of_lisp&amp;rev=1294115810&amp;do=diff</link>
+        <description>I have never done any LISP programming, and wanted to get some experience with it.  I decided to go through the book Land of Lisp, doing different programming exercises as I went through it.  Land of Lisp doesn't have specific programming exercises, so I did slightly modified versions of the games that were presented in the book.</description>
+    </item>
+    <item rdf:about="http://nickgoote.com/wiki/doku.php?id=projects:master_s_degree_project&amp;rev=1312939712&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-08-09T21:28:32-04:00</dc:date>
+        <title>projects:master_s_degree_project</title>
+        <link>http://nickgoote.com/wiki/doku.php?id=projects:master_s_degree_project&amp;rev=1312939712&amp;do=diff</link>
+        <description>For my Master's Degree, I needed to complete a 2 semester project. I chose to write a Common Driver Interface for the company that I worked for.  A description of what the project is, and how it went, can be found at: 
+
+&lt;https://github.com/SaintNicholas/CommonDriverInterface&gt;</description>
+    </item>
+    <item rdf:about="http://nickgoote.com/wiki/doku.php?id=projects:networking&amp;rev=1297133731&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-02-07T21:55:31-04:00</dc:date>
+        <title>projects:networking</title>
+        <link>http://nickgoote.com/wiki/doku.php?id=projects:networking&amp;rev=1297133731&amp;do=diff</link>
+        <description>&lt;http://www.freertos.org/index.html?http://www.freertos.org/portLM3Sxxxx_Eclipse.html&gt; 
+
+&lt;http://sourceforge.net/projects/freertos/forums/forum/382005/topic/2760910&gt; 
+
+&lt;http://www.parashift.com/c++-faq-lite/&gt; 
+
+&lt;http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.faqs/ka3730.html&gt; 
+
+&lt;http://gandalf.arubi.uni-kl.de/avr_projects/arm_projects/index.html#cm3_cpp1&gt; 
+
+&lt;http://www.state-machine.com/arm/Building_bare-metal_ARM_with_GNU.pdf&gt; 
+
+&lt;http://e2e.ti.com/support/microcontrollers/stellaris…</description>
+    </item>
+    <item rdf:about="http://nickgoote.com/wiki/doku.php?id=projects:noss_nick_s_operating_system&amp;rev=1293138519&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2010-12-23T16:08:39-04:00</dc:date>
+        <title>projects:noss_nick_s_operating_system</title>
+        <link>http://nickgoote.com/wiki/doku.php?id=projects:noss_nick_s_operating_system&amp;rev=1293138519&amp;do=diff</link>
+        <description>This is an operating system I am writing for X86 processors.
+
+The github repository of the source code can be found at the following link: 
+
+&lt;https://github.com/SaintNicholas/noss&gt;
+
+To Do:</description>
+    </item>
+    <item rdf:about="http://nickgoote.com/wiki/doku.php?id=projects:projects&amp;rev=1312940449&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-08-09T21:40:49-04:00</dc:date>
+        <title>projects:projects</title>
+        <link>http://nickgoote.com/wiki/doku.php?id=projects:projects&amp;rev=1312940449&amp;do=diff</link>
+        <description>Completed
+
+	*  MIT OCW
+		*  Introduction to Computer Science and Programming 6.00
+
+	*  Master's Degree Project
+		*  Master's Degree Project
+
+	*  C/C++
+		*  C/C++ Coding Style
+		*  C++ Primer Plus
+
+
+
+
+
+
+In Progress
+
+
+	*  USACO Programming Challenges
+	*  Ray Tracer
+	*  LISP
+		*  Land of Lisp</description>
+    </item>
+    <item rdf:about="http://nickgoote.com/wiki/doku.php?id=projects:ray_tracer&amp;rev=1293137989&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2010-12-23T15:59:49-04:00</dc:date>
+        <title>projects:ray_tracer</title>
+        <link>http://nickgoote.com/wiki/doku.php?id=projects:ray_tracer&amp;rev=1293137989&amp;do=diff</link>
+        <description>This Ray Tracer is based off the Amiga Juggler ray tracer.  This tutorial can be found at: 
+
+&lt;http://meatfighter.com/juggler/&gt;
+
+The github repository of the source code can be found at the following link: 
+
+&lt;https://github.com/SaintNicholas/Cpp-Ray-Tracer&gt;</description>
+    </item>
+    <item rdf:about="http://nickgoote.com/wiki/doku.php?id=projects:usaco_programming_challenges&amp;rev=1293137959&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2010-12-23T15:59:19-04:00</dc:date>
+        <title>projects:usaco_programming_challenges</title>
+        <link>http://nickgoote.com/wiki/doku.php?id=projects:usaco_programming_challenges&amp;rev=1293137959&amp;do=diff</link>
+        <description>The USACO is a site that has programming challenges that users can submit solutions to.  The site judges the output of the program to determine if the solution was correct.  The challenges progressively get harder as more of them are solved.
+
+More information can be found at the following links: 
+
+&lt;http://train.usaco.org/usacogate&gt; 
+
+&lt;http://web.me.com/dpiele/usaco/USACO.html&gt;</description>
+    </item>
+</rdf:RDF>

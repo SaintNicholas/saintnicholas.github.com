@@ -1,0 +1,16 @@
+<a href="http://www.splitbrain.org/go/dokuwiki">Hotfix Release</a> available. More info 
+	  <a href="http://www.freelists.org/post/dokuwiki/Hotfix-Release-20110525a-Rincewind">here</a>. [34] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release available: 2011-05-25 "Rincewind".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [33] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release candidate available: 2011-05-08 "Rincewind RC2".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [32] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release candidate available: 2011-04-22 "Rincewind RC1".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [31] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+Security fix for privilege escalation bugs. More info 
+	  <a href="http://bugs.dokuwiki.org/index.php?do=details&amp;task_id=2136">here</a>,
+          <a href="http://www.splitbrain.org/go/dokuwiki">fixed release</a> available. [30] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%

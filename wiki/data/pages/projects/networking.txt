@@ -1,0 +1,14 @@
+http://www.freertos.org/index.html?http://www.freertos.org/portLM3Sxxxx_Eclipse.html \\
+http://sourceforge.net/projects/freertos/forums/forum/382005/topic/2760910 \\
+http://www.parashift.com/c++-faq-lite/ \\
+http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.faqs/ka3730.html \\
+http://gandalf.arubi.uni-kl.de/avr_projects/arm_projects/index.html#cm3_cpp1 \\
+http://www.state-machine.com/arm/Building_bare-metal_ARM_with_GNU.pdf \\
+http://e2e.ti.com/support/microcontrollers/stellaris_arm_cortex-m3_microcontroller/f/471/p/44119/157413.aspx \\
+http://wiki.osdev.org/C%2B%2B_Bare_Bones \\
+http://refspecs.freestandards.org/LSB_4.0.0/LSB-Core-generic/ \\
+http://gcc.gnu.org/onlinedocs/gcc/
+
+MII Information - Section 22 of 802.3-2008 specification (pages 9 - 38 of part 2)
+
+MAC Information - Section 2, 3, 4 of 802.3-2008 specification (pages 45 - 92 of part 1)
