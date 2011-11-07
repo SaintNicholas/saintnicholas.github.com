@@ -1,4 +1,0 @@
-I have done C++ development starting at the undergraduate level, and continuing into work and grad school.  However, I haven't ever learned all of the C++ capabilities start to finish, which I feel would be beneficial.  To do this, I decided to go through the book [[http://www.amazon.com/Primer-Plus-5th-Stephen-Prata/dp/0672326973/ref=sr_1_1?ie=UTF8&qid=1294115509&sr=8-1|C++ Primer Plus]], doing all of the programming exercises as I went through the book.
-
-The github repository where my solutions can be found is located at: \\
-https://github.com/SaintNicholas/Cpp-Primer-Plus

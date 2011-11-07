@@ -1,3 +1,0 @@
-a:9:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:0;}i:2;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:218:"For my Master's Degree, I needed to complete a 2 semester project. I chose to write a Common Driver Interface for the company that I worked for.  A description of what the project is, and how it went, can be found at: ";}i:2;i:1;}i:3;a:3:{i:0;s:9:"linebreak";i:1;a:0:{}i:2;i:219;}i:4;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:221;}i:5;a:3:{i:0;s:12:"externallink";i:1;a:2:{i:0;s:54:"https://github.com/SaintNicholas/CommonDriverInterface";i:1;N;}i:2;i:222;}i:6;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:276;}i:7;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:276;}i:8;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:276;}}
