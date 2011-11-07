@@ -1,0 +1,175 @@
+body
+{
+	font-size:        62.5%; 
+	margin:           0;
+	padding:          0;
+	background-color: #879999;
+	font-family:      'lucida grande', arial, tahoma, sans-serif;
+}
+
+#container
+{
+	margin:           0 auto;
+	padding-top:      20px;
+	width:            800px;
+	position:         relative;
+	background-color: #879999;
+}
+
+#header
+{
+	margin:           0 auto;
+    float:            center;
+	height:           45px;
+    #background-color: #FFFFFF;
+    background-color: #879999;
+
+}
+
+.headtitle
+{
+	position:        relative;
+	font-family:     Times;
+	font-size:       34px;
+	#color:           #434343;
+    color:           #434343;
+	top:             8px;
+	left:            12px;
+}
+
+#menu
+{
+	margin:         0 auto;
+	height:         29px;
+    float:          center;
+	padding:        5px 0;
+    #background-color: #FFFFFF;
+    background-color: #879999;
+
+
+    border-bottom-style: solid;
+    border-width:       5px;
+    border-color:       #879999;
+}
+
+#menu ul
+{
+	margin:          0;
+	padding:         7px;
+
+	height:          29px;
+}
+
+#menu ul li
+{
+	list-style:      none;
+	display:         inline;
+}
+
+#menu ul li a:link, #menu ul li a:active, #menu ul li a:visited
+{
+	color:           #2f2f2f;	
+	padding:         10px 7px 10px 7px;
+	font-size:       1.2em;
+
+	font-family:     'lucida grande', arial, sans-serif;
+	font-weight:     bold;
+	text-decoration: none;
+}
+
+#menu ul li a:hover
+{
+	background-color:   #879999;
+	color:              #FDFDFD;
+}
+
+#content
+{
+    float:              center;
+	margin:             0 auto;
+	background-color:   #FDFDFD;
+    padding-bottom:     20px;
+    
+    border-left-style:  solid;
+    border-right-style: solid;
+    border-width:       2px;
+    border-color:       #FFF;
+}
+
+#insidecontent
+{
+	float:           left;
+	padding-left:    25px;
+	padding-right:   25px;
+	width:           auto;
+}
+
+#insidecontent p, ul, li
+{
+	margin:          0;
+	color:           #434343;
+	font-family:     Tahoma;
+	font-size:       1.2em;
+	line-height:     170%;
+}
+
+#insidecontent a
+{
+	margin:          0;
+	font-family:     Tahoma;
+	font-size:       1.2em;
+	line-height:     170%;
+}
+
+h1
+{
+	margin:          0;
+	font-weight:     normal;
+	#color:           #6A7919;
+    color:           #434343;
+	font-size:       2.5em;
+	font-family:     Times;
+}
+
+h2
+{
+	margin:          0;
+	display:         inline;
+	position:        relative;
+	top:             -1.5em;
+	left:            2em;
+	font-size:       1.8em;
+	font-weight:     normal;
+	color:           #94c258;
+}
+
+h3
+{
+	margin:          0;
+	font-size:       1.5em;
+	font-weight:     normal;
+	color:           #94C258;
+}
+
+#footer
+{
+	margin:          0 auto;
+	width:           641px;
+	height:          39px;
+
+}
+
+#footer span
+{
+	display:         block;
+	position:        relative;
+	font-family:     Tahoma;
+	font-size:       1.2em;
+	padding:         10px;
+	color:           #434343;
+}
+
+#centertext
+{
+    text-align: center;
+}
