@@ -3,28 +3,25 @@ body
 	font-size:        62.5%; 
 	margin:           0;
 	padding:          0;
-	#background-color: #879999;
 	background-color: #FFFFFF;
 	font-family:      'lucida grande', arial, tahoma, sans-serif;
 }
 
 #container
 {
-	margin:           0 auto;
-	padding-top:      20px;
-	width:            700px;
-	position:         relative;
-	#background-color: #879999;
-	background-color: #FFFFFF;
+    margin:           0 auto;
+    padding-top:      20px;
+    width:            700px;
+    position:         relative;
+    background-color: #FFFFFF;
 }
 
 #header
 {
-	margin:           0 auto;
+    margin:           0 auto;
     float:            center;
-	height:           45px;
+    height:           45px;
     background-color: #FFFFFF;
-    #background-color: #879999;
 
 }
 
@@ -40,25 +37,24 @@ body
 
 #menu
 {
-	margin:         0 auto;
-	#height:         29px;
+    margin:         0 0;
+    #height:         29px;
     float:          center;
-	padding:        5px 0;
+    padding:        0 0;
     background-color: #FFFFFF;
-    #background-color: #879999;
 
 
     border-bottom-style: solid;
-    border-width:       5px;
+    border-width:       3px;
     border-color:       #879999;
 }
 
 #menu ul
 {
 	margin:          0;
-	padding:         7px;
+	padding:         0;
 
-	height:          29px;
+	#height:          29px;
 }
 
 #menu ul li
@@ -67,28 +63,22 @@ body
 	display:         inline;
 }
 
-#menu ul li a:link, #menu ul li a:active, #menu ul li a:visited
+#menu ul li a:link, #menu ul li a:active, #menu ul li a:visited, #menu ul li a:hover
 {
 	color:           #434343;	
-	padding:         10px 7px 10px 7px;
-	font-size:       1.2em;
+	padding:         10px 0px 10px 0px;
+	#font-size:       1.2em;
 
-	font-family:     'lucida grande', arial, sans-serif;
+	#font-family:     'lucida grande', arial, sans-serif;
 	font-weight:     bold;
 	text-decoration: none;
-}
-
-#menu ul li a:hover
-{
-	background-color:   #879999;
-	color:              #FDFDFD;
 }
 
 #content
 {
     float:              center;
-	margin:             0 auto;
-	background-color:   #FDFDFD;
+    margin:             0 auto;
+    background-color:   #FDFDFD;
     padding-bottom:     20px;
     
     border-left-style:  solid;
