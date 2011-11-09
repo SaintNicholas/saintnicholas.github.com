@@ -18,7 +18,8 @@ body
 
 #header
 {
-    margin:           0 auto;
+    margin:           0 0;
+    padding: 0 0;
     float:            center;
     height:           45px;
     background-color: #FFFFFF;
@@ -49,42 +50,22 @@ body
     border-color:       #879999;
 }
 
-#menu ul
+#menu a:link, #menu a:active, #menu a:visited, #menu a:hover
 {
-	margin:          0;
-	padding:         0;
-
-	#height:          29px;
-}
-
-#menu ul li
-{
-	list-style:      none;
-	display:         inline;
-}
-
-#menu ul li a:link, #menu ul li a:active, #menu ul li a:visited, #menu ul li a:hover
-{
-	color:           #434343;	
-	padding:         10px 0px 10px 0px;
-	#font-size:       1.2em;
-
-	#font-family:     'lucida grande', arial, sans-serif;
-	font-weight:     bold;
-	text-decoration: none;
+    color:           #434343;
+    padding:         0;
+    #font-size:       1.2em;
+    #font-family:     'lucida grande', arial, sans-serif;
+    font-weight:     bold;
+    text-decoration: none;
 }
 
 #content
 {
     float:              center;
-    margin:             0 auto;
-    background-color:   #FDFDFD;
+    margin:             0 0;
+    background-color:   #FFFFFF;
     padding-bottom:     20px;
-    
-    border-left-style:  solid;
-    border-right-style: solid;
-    border-width:       2px;
-    border-color:       #FFF;
 }
 
 #insidecontent
@@ -126,8 +107,7 @@ h2
 {
 	margin:          0 auto;
 	width:           641px;
-	height:          19px;
-
+	#height:          19px;
 }
 
 #footer span
@@ -136,11 +116,6 @@ h2
 	position:        relative;
 	font-family:     Tahoma;
 	font-size:       1.2em;
-	padding:         10px;
+	#padding:         10px;
 	color:           #434343;
-}
-
-#centertext
-{
-    text-align: center;
 }
