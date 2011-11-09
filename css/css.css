@@ -11,7 +11,7 @@ body
 {
 	margin:           0 auto;
 	padding-top:      20px;
-	width:            800px;
+	width:            700px;
 	position:         relative;
 	background-color: #879999;
 }
@@ -31,8 +31,7 @@ body
 	position:        relative;
 	font-family:     Times;
 	font-size:       34px;
-	#color:           #434343;
-    color:           #434343;
+	color:           #434343;
 	top:             8px;
 	left:            12px;
 }
@@ -68,7 +67,7 @@ body
 
 #menu ul li a:link, #menu ul li a:active, #menu ul li a:visited
 {
-	color:           #2f2f2f;	
+	color:           #434343;	
 	padding:         10px 7px 10px 7px;
 	font-size:       1.2em;
 
@@ -116,6 +115,7 @@ body
 #insidecontent a
 {
 	margin:          0;
+	color:           #434343;
 	font-family:     Tahoma;
 	font-size:       1.2em;
 	line-height:     170%;
@@ -124,31 +124,19 @@ body
 h1
 {
 	margin:          0;
-	font-weight:     normal;
-	#color:           #6A7919;
-    color:           #434343;
-	font-size:       2.5em;
-	font-family:     Times;
+	font-weight:     bold;
+	color:           #434343;
+	#font-size:       3.0em;
+	#font-family:     Times;
 }
 
 h2
 {
 	margin:          0;
-	display:         inline;
-	position:        relative;
-	top:             -1.5em;
-	left:            2em;
-	font-size:       1.8em;
-	font-weight:     normal;
-	color:           #94c258;
-}
-
-h3
-{
-	margin:          0;
-	font-size:       1.5em;
-	font-weight:     normal;
-	color:           #94C258;
+	font-weight:     bold;
+	color:           #434343;
+	#font-size:       2.0em;
+	#font-family:     Times;
 }
 
 #footer
