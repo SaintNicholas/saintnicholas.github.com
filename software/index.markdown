@@ -70,3 +70,17 @@ A ray tracer based off the [Amiga Juggler](http://meatfighter.com/juggler) ray t
 [Ray Tracer GitHub repository](https://github.com/SaintNicholas/Cpp-Ray-Tracer)
 
 ---
+
+<br/>
+
+## USACO
+
+<br/>
+
+[USACO](http://train.usaco.org/usacogate) is a site that has programming challenges that users can submit solutions to.  The site judges the output of the program to determine if the solution was correct.  The challenges progressively get harder as more of them are solved.
+
+<br/>
+
+[USACO GitHub repository](https://github.com/SaintNicholas/USACO)
+
+---
