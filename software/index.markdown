@@ -3,8 +3,6 @@ layout: default
 title: Software
 ---
 
-<br/>
-
 ## C++ Primer Plus
 
 <br/>
