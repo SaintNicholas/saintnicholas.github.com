@@ -7,7 +7,7 @@ title: About Me
 
 I wanted to run a webserver from a computer running Ubuntu Server at my house, and I wanted to use nickgoote.com to access the webserver.  I registered nickgoote.com with GoDaddy to get this done.  My end configuration is shown in the picture below.  I'll refer to this picture in later sections.
 
-![Old Server Setup](serversetup.png){:width="75%" height="75%"}
+![Old Server Setup](serversetup.png){:height="213" width="157"}
 
 ## Windows Machine Configuration ##
 
@@ -123,7 +123,7 @@ The Ubuntu Server CrashPlan is considered a headless installation, and must be c
 
 I used www.ZoneEdit.com for my DNS configuration.  It's free, and is has worked really well so far.  My DNS configuration is shown below.
 
-![Server DNS](serverdns.png){:width="50%" height="50%"}
+![Server DNS](serverdns.png){:height="454" width="416"}
 
 The A record points my domain, nickgoote.com, to my current IP address, 68.40.8.204.  This is my Comcast given dynamic IP address, which needs to be updated occasionally.  To update it, I used ddclient from the Ubuntu Server, which I'll discuss later.
 
