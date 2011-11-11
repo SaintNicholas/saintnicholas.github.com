@@ -7,8 +7,7 @@ title: About Me
 
 I wanted to run a webserver from a computer running Ubuntu Server at my house, and I wanted to use nickgoote.com to access the webserver.  I registered nickgoote.com with GoDaddy to get this done.  My end configuration is shown in the picture below.  I'll refer to this picture in later sections.
 
-![Old Server Setup](serversetup.png)
-{:width="213" height="157"}
+![Old Server Setup](serversetup.png){:width="213" height="157"}
 
 ## Windows Machine Configuration ##
 
