@@ -19,7 +19,7 @@ body
 #header
 {
     margin:           0 0;
-    padding: 0 0;
+    padding:          0 0;
     float:            center;
     height:           45px;
     background-color: #FFFFFF;
@@ -36,21 +36,21 @@ body
 
 #menu
 {
-    margin:         0 0;
-    float:          center;
-    padding:        6px 0 0 0;
+    margin:           0 0;
+    float:            center;
+    padding:          6px 0 0 0;
     background-color: #FFFFFF;
 
 
     border-bottom-style: solid;
-    border-width:       3px;
-    border-color: #434343;
+    border-width:        3px;
+    border-color:        #434343;
 }
 
 #menu a:link, #menu a:active, #menu a:visited, #menu a:hover
 {
-    color: #434343;
-    padding: 0 0 0 0;
+    color:           #434343;
+    padding:         0 0 0 0;
     margin:          0 10px 0 0;
     font-size:       1.2em;
     font-family:     'lucida grande', arial, sans-serif;
@@ -64,12 +64,6 @@ body
     margin:             0 0;
     background-color:   #FFFFFF;
     padding-bottom:     20px;
-}
-
-#insidecontent
-{
-    float:           left;
-    width:           auto;
 }
 
 #insidecontent p, ul, li
